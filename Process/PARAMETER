@@ -1,0 +1,5 @@
+inside_radius_Ang     90  
+outside_radius_Ang    3.1         !THIS VALUE SHOULD BE LARGER THAN NYQ LIMIT  
+pixel_Ang             1.15     
+!original threshold value was 1.42
+threshold               1.42
