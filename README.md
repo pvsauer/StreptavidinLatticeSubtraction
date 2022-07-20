@@ -1,5 +1,5 @@
 # StreptavidinLatticeSubtraction
-Matlab scripts as described in Dominguez-Martin et al., Nature, 2022.
+Matlab scripts as described in Dominguez-Martin, Sauer et al., Nature, 2022.
 
 Computational subtraction of streptavidin lattice from motion corrected micrographs
 Guide by Paul Sauer, UC Berkeley, psauer@berkeley.edu
